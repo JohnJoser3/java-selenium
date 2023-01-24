@@ -23,17 +23,12 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
       <version>4.0.0-alpha-7</version>
     </dependency>
     
-    <dependency>
+<!-- <dependency>
       <groupId>org.openqa.selenium</groupId>
       <artifactId>selenium-java</artifactId>
       <version>4.0.0-alpha-7</version>
     </dependency>
-    
-    <dependency>
-      <groupId>org.seleniumhq.selenium</groupId>
-      <artifactId>selenium-java</artifactId>
-      <version>4.0.0-alpha-7</version>
-    </dependency>
+-->  
     
     <dependency>
       <groupId>com.browserstack</groupId>
