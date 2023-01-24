@@ -35,11 +35,13 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
       <artifactId>browserstack-java-sdk</artifactId>
       <version>1.0.1</version>
     </dependency>
-    
+
+<!--
     <dependency>
       <groupId>com.browserstack</groupId>
       <artifactId>browserstack-local</artifactId>
       <version>1.1</version>
     </dependency>
+--> 
   </dependencies>
 </project>
