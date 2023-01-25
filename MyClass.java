@@ -1,22 +1,22 @@
 
 package newpackage;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.seleniumhq.selenium.WebDriver;
+import org.seleniumhq.selenium.chrome.ChromeDriver;
 
 import java.util.HashMap;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.MutableCapabilities;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.seleniumhq.selenium.By;
+import org.seleniumhq.selenium.MutableCapabilities;
+import org.seleniumhq.selenium.WebDriver;
+import org.seleniumhq.selenium.WebElement;
+import org.seleniumhq.selenium.chrome.ChromeDriver;
 
 
-import org.openqa.selenium.Platform;
+import org.seleniumhq.selenium.Platform;
 
 
-import org.openqa.selenium.remote.RemoteWebDriver;
+import org.seleniumhq.selenium.remote.RemoteWebDriver;
 
 import java.net.MalformedURLException;
 import java.net.URL;
